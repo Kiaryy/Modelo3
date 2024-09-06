@@ -1,0 +1,3 @@
+public enum Estado {
+    PENDIENTE, CONFIRMADO, ENTREGADO, CANCELADO
+}
